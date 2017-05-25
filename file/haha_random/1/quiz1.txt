@@ -1,0 +1,33 @@
+Name:
+Date:
+Remark:
+                    China capital quiz, Form 1                    
+1. What' s the capital of Inner Mongolia Province?
+A. Hohot
+B. Hangzhou
+C. Nanning
+D. Urumqi
+
+
+2. What' s the capital of Jiangsu Province?
+A. Shijiazhuang
+B. Kunming
+C. Guangzhou
+D. Nanjing
+
+
+3. What' s the capital of Guangdong Province?
+A. Nanning
+B. Guangzhou
+C. Lhasa
+D. Kunming
+
+
+4. What' s the capital of Guangxi Province?
+A. Guiyang
+B. Beijing
+C. Hangzhou
+D. Nanning
+
+
+ADBD

@@ -1,0 +1,18 @@
+{
+    "buses":{
+        "7574":{
+            "id":7574,
+            "route":14,
+            "color":"#3300ff",
+            "revenue":true,
+            "direction":"North Bound",
+            "latitude":41.925682067871094,
+            "logitude":-87.63092803955078,
+            "pattern":2499,
+            "patternDirection":"North Bound",
+            "run":"P675",
+            "finalStop":"Xiantan",
+            "operator":42493
+        }
+    }
+}

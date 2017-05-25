@@ -1,0 +1,10 @@
+Wed, 10 May 2017 17:25:18 debstack.py[line:39] INFO INFO MESSAGES
+Wed, 10 May 2017 17:25:18 debstack.py[line:35] ERROR division by zero
+Traceback (most recent call last):
+  File "e:\Python\debug\debstack.py", line 33, in main
+    bar('0')
+  File "e:\Python\debug\debstack.py", line 28, in bar
+    return foo(s) * 2
+  File "e:\Python\debug\debstack.py", line 24, in foo
+    return 10 / int(s)
+ZeroDivisionError: division by zero

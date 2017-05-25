@@ -1,0 +1,20 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>请登录</title>
+</head>
+<body>
+	{% if message %}
+        {% for i in count %}
+        <p style="color:red">第{{ i }}遍消息：{{ message }}</p>
+        {% endfor %}
+    {% endif %}
+    <form action="/signin" method="post">
+        <legend>请登录</legend>
+            <p><input name="username"></p>
+            <p><input name="password" type="password"></p>
+            <p><button type="submit">Sign In</button></p>
+    </form>
+</body>
+</html>

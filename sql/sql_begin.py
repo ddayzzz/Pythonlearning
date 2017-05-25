@@ -1,0 +1,2 @@
+# coding=gb2312
+# SQLiteµÄÊ¹ÓÃ
